@@ -1,4 +1,4 @@
-# 2-Player 2D Snake Game
+# Library Management System
 
 
 ## Description
@@ -12,4 +12,4 @@ This is a project which I made for a bootcamp I participated in. With this progr
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KaanUzun1/Personal-Projects/tree/161b8b0347f7784d8001f1d48070b77ac7ba8118/snake
+   git clone https://github.com/KaanUzun1/Library-Management-System.git
